@@ -1,3 +1,4 @@
+
 # 🏠 Real Estate Investment Advisor
 
 An AI-powered web application that helps users analyze whether a property is a **good investment** and predicts its **future price growth over 5 years**.
@@ -15,6 +16,19 @@ An AI-powered web application that helps users analyze whether a property is a *
 * 📊 Confidence score & risk level (Low / Moderate / High)
 * 🧠 Dynamic reasoning (why the model gave this result)
 * 🎯 Clean and interactive Streamlit UI
+
+---
+
+## 🛠️ Languages & Tools Used
+
+* **Python** 🐍
+* **Pandas** – Data manipulation
+* **NumPy** – Numerical operations
+* **Scikit-learn** – Machine Learning models
+* **Streamlit** – Web app framework
+* **Matplotlib** – Visualization
+* **Jupyter Notebook – EDA & experimentation
+* **Git & GitHub** – Version control
 
 ---
 
